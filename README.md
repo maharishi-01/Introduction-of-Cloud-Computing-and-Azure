@@ -150,7 +150,7 @@ Thanx guys for giving a read!!
 # This Repo is maintained by Rishi Raj
 </br>
 <p align="center">
-<img src="rishi-port1.png">
+<img src="rishi-port1.jpeg">
 </p>  
 </br>
 <hr>
