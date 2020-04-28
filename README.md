@@ -43,7 +43,7 @@ Microsoft Azure is a flexible, scalable, and full-featured cloud platform. Pytho
 </ul>
 You name it and you can do it in Azure It provides all the three services i.e IAAS,PAAS,SAAS
 
-## Redeeming the Azure Voucher codes:
+## How to make an account on Azure:
 __steps to followed__
 __Go to https://azure.microsoft.com/en-in/free/students/__
 <br>
@@ -52,7 +52,9 @@ __Go to https://azure.microsoft.com/en-in/free/students/__
 <li>If already have an account then skip this step, otherwise, click on create a new. (Feel free to use Gmail/outlook/other accounts).</li>
  <li>Create a new account with just a username and password.</li>
  <li>Click on the activate now button on the page.</li>
-<li>Use the drop-down in the verification method to verification code, enter the voucher code (25 DIGIT) shown here below.Voucher Code:  Do not share your specific code with someone as this is exclusive to you. And everyone registered before will get his/her own.</li>
+ <li>you will go to student verification page.There is two option 1.Scool email address 2.Verification code</li>
+ <li>if you have school email address then fill it.And click verify academic status. The varification mail go to school email id check it.</li>
+<li>if you have verification code then Use the drop-down in the verification method to verification code, enter the voucher code (25 DIGIT) shown here below.Voucher Code:  Do not share your specific code with someone as this is exclusive to you. And everyone registered before will get his/her own.</li>
 <li>Enter Specific details (PAN is optional, Type University name as XYZ university, and Phone number).</li>
  <li>Once done, you will be redirected to the Azure portal, your benefits will be activated.</li>
  <li>This is it, for now, further information will be sent through the mail.</li>
