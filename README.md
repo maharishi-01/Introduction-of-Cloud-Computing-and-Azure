@@ -3,7 +3,7 @@
 ## Are you a Cloud enthusiast ✨ or a Web enthusiast ?? Want to know the fundamentals of cloud ??
 ## If Yes , then here is the overview.
 <br>
-### _What is cloud computing??
+### What is cloud computing??
 <p align="center">
 <img src="cloud.jfif">
 </p>  
